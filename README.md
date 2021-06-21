@@ -1,5 +1,4 @@
-![screenshot of the directory]
-(https://i.imgur.com/XB8D4qU.png)
+![screenshot of the directory](https://i.imgur.com/XB8D4qU.png)
 
 # dev-environment-lab
 
